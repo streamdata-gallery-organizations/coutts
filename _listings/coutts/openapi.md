@@ -4,7 +4,7 @@ x-collection-name: Coutts
 x-complete: 1
 info:
   title: Coutts
-  description: this-is-an-openapi-definition-for-the-standard-set-of-open-banking-httpopenbankingapisio-apis-froms-coutts
+  description: this-is-an-openapi-definition-for-the-standard-set-of-open-banking-httpopenbankingapis-io-apis-froms-coutts-
   termsOfService: https://www.openbanking.org.uk/open-licence/
   contact:
     name: API Evangelist
