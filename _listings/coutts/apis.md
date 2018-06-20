@@ -12,10 +12,10 @@ description: Coutts /??ku?ts/ is a private bank and wealth manager, founded in 1
   RBS Coutts was renamed Coutts &amp; Co. Limited.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Coutts-logo.jpg
 x-kinRank: "8"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: Coutts
-created: "2018-05-25"
-modified: "2018-05-25"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/coutts/master/_listings/coutts/apis.md
 specificationVersion: "0.14"
 apis:
@@ -26,7 +26,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Coutts-logo.jpg
   humanURL: https://www.coutts.com/
   baseURL: https://openapi.coutts.com/open-banking/v2.1//business-current-accounts/
-  tags: ~
+  tags: Banks,Accounts
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/coutts/master/_listings/coutts/businesscurrentaccounts-get-postman.md
